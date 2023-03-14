@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning at Botho University Lesotho
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me here mamonamoli.mpopo@gmail.com
+- 📫 You can reach me here mamonamoli.mpopo14@gmail.com
 
 <!---
 1923Mpopo/1923Mpopo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
